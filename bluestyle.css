@@ -1,9 +1,11 @@
 body
  {
-    background-color: lightblue;
+    background-color: mediumturquoise;
+    border-color: brown;
+    border-radius: 245px;
 }
 h1{
-    color: navy;
+    color: blueviolet;
     margin-left: 40px;
     margin-bottom: 20px;
 }
